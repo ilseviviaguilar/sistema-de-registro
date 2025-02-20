@@ -1,2 +1,2 @@
-# sistema-de-registro
-sistema-de-registro, mi primer proyecto en GitHub
+<h1> Sistema de Registro </h1>
+Estado del proyecto: En construcción
